@@ -10,3 +10,9 @@ https://jestjs.io/docs/en/expect.html#expecthasassertions
 
 Understanding Jest Mocks
 https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c
+
+
+
+jest.fn: Mock a function
+jest.mock: Mock a module
+jest.spyOn: Spy or mock a function
