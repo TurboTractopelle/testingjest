@@ -1,6 +1,7 @@
-const math = require("./maths");
+const maths = require("./maths");
 
-exports.doAdd = (a, b) => math.add(a, b);
-exports.doSubtract = (a, b) => math.subtract(a, b);
-exports.doMultiply = (a, b) => math.multiply(a, b);
-exports.doDivide = (a, b) => math.divide(a, b);
+exports.doAdd = (a, b) => maths.add(a, b);
+exports.doAdd2 = (a, b) => 2;
+exports.doSubtract = (a, b) => maths.subtract(a, b);
+exports.doMultiply = (a, b) => maths.multiply(a, b);
+exports.doDivide = (a, b) => maths.divide(a, b);
