@@ -1,0 +1,12 @@
+API guide
+https://jestjs.io/docs/en/mock-function-api
+
+https://medium.com/@deanslamajr/jest-fn-all-the-things-d26f3b929986
+
+
+pour tester les assertions, on attend que ce soit testé 
+https://jestjs.io/docs/en/expect.html#expecthasassertions
+
+
+Understanding Jest Mocks
+https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c
