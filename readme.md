@@ -1,8 +1,8 @@
 # JEST
 
-https://www.pluralsight.com/guides/how-does-jest.fn()-work
+<https://www.pluralsight.com/guides/how-does-jest.fn()-work>
 
-https://jestjs.io/docs/en/configuration.html#content
+<https://jestjs.io/docs/en/configuration.html#content>
 https://jestjs.io/docs/en/manual-mocks
 https://jestjs.io/docs/en/mock-function-api.html#mockfnmocknamevalue
 https://jestjs.io/docs/en/mock-functions#mocking-modules
